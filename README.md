@@ -19,12 +19,19 @@ This framework is created and developed using Eclipse. I have used Karate frmewo
 Languages used:
 I have used Java, JavaScript and Gherkin syntax for development. 
 
-#Pre-requesits:-
+
+
+
+**Pre-requesits:-**
+
 1. Install Java 8 or latest version and set path variables.
 2. Install Apache Maven and set path variables(https://maven.apache.org/download.cgi).
 3. Install Git(https://git-scm.com/downloads).
 
-#Steps to run test command line:-
+
+
+**Steps to run test command line:-**
+
 Step 01:- Clone the project from repository(https://github.com/dchandana/AssurityConsultingTechnicalAssignment/tree/master)
 
 	- git clone --branch master https://github.com/dchandana/AssurityConsultingTechnicalAssignment.git
@@ -38,7 +45,9 @@ Step 3:- Navigate to following folder and open 'karate-summary.html' report. The
 	- ../AssurityConsultingTechnicalAssignment/target/karate-reports
 	
 	
-#Steps to run test in Eclipse:-
+
+**Steps to run test in Eclipse:-**
+
 Step 01:- You need to have Eclipse Oxygen 4.23 or a version support JUnit5. You can directly import directly to Eclipse.
 
 Step 02:- Test case feature file located in following location. currently I have added all 4 data rows in the test case and you can update in 'Examples' section.
