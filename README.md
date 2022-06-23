@@ -1,5 +1,5 @@
 # Assurity Consulting Technical Assignment
-This Maven project is created for Assurity Consulting as a technical assignment to test following API. 
+This is a BDD API testing framework created for Assurity Consulting as a technical assignment to test following API. 
 
 
 	* API = https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false
@@ -19,7 +19,7 @@ This framework is created and developed using Eclipse. I have used Karate frmewo
 Languages used:
 I have used Java, JavaScript and Gherkin syntax for development. 
 
-##Pre-requesits:-
+#Pre-requesits:-
 1. Install Java 8 or latest version and set path variables.
 2. Install Apache Maven and set path variables(https://maven.apache.org/download.cgi).
 3. Install Git(https://git-scm.com/downloads).
@@ -38,7 +38,7 @@ Step 3:- Navigate to following folder and open 'karate-summary.html' report. The
 	- ../AssurityConsultingTechnicalAssignment/target/karate-reports
 	
 	
-##Steps to run test in Eclipse:-
+#Steps to run test in Eclipse:-
 Step 01:- You need to have Eclipse Oxygen 4.23 or a version support JUnit5. You can directly import directly to Eclipse.
 
 Step 02:- Test case feature file located in following location. currently I have added all 4 data rows in the test case and you can update in 'Examples' section.
@@ -49,6 +49,6 @@ Test data can be pass from following JSON file also. This is disabled in the fra
 
 	/tmsandBoxApiTest/src/test/java/com/assurityConsulting/apiTesting/tmsandBoxApiTest/Data/categoriesData.json
 
-Step 02:- To execute the test you can right click on pom.xml file and select 'Run as' and then select 'Mevan test'
+Step 03:- To execute the test you can right click on pom.xml file and select 'Run as' and then select 'Mevan test'
 
 
