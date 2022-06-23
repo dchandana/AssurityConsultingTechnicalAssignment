@@ -1,0 +1,18 @@
+[ 
+	{ 
+		"data":{
+	   		"Name": "Carbon credits",
+	    	"CanRelist" : true,
+	    	"PromotionsPersonName" : "Gallery",
+	    	"PromotionsPersonDescription" : "Good position in category"
+		}
+	},
+	{ 
+		"data":{
+		    "Name": "Carbon credits",
+		    "CanRelist" : true,
+		    "PromotionsPersonName" : "Gallery",
+		    "PromotionsPersonDescription" : "Good position in category"
+		}	
+	}
+]
