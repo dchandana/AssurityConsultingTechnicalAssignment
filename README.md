@@ -24,7 +24,7 @@ I have used Java, JavaScript and Gherkin syntax for development.
 2. Install Apache Maven and set path variables(https://maven.apache.org/download.cgi).
 3. Install Git(https://git-scm.com/downloads).
 
-##Steps to run test command line:-
+#Steps to run test command line:-
 Step 01:- Clone the project from repository(https://github.com/dchandana/AssurityConsultingTechnicalAssignment/tree/master)
 
 	- git clone --branch master https://github.com/dchandana/AssurityConsultingTechnicalAssignment.git
