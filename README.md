@@ -22,7 +22,7 @@ I have used Java, JavaScript and Gherkin syntax for development.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-**Pre-requesits:-**
+**Pre-requesits:-** You should have following software before setting up the framework.
 
 1. Install Java 8 or latest version and set path variables.
 2. Install Apache Maven and set path variables(https://maven.apache.org/download.cgi).
