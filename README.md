@@ -20,7 +20,7 @@ Languages used:
 I have used Java, JavaScript and Gherkin syntax for development. 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------
 
 **Pre-requesits:-**
 
@@ -29,7 +29,7 @@ I have used Java, JavaScript and Gherkin syntax for development.
 3. Install Git(https://git-scm.com/downloads).
 
 
-
+------------------------------------------------------------------------------------------------------------------------------
 **Steps to run test command line:-**
 
 Step 01:- Clone the project from repository(https://github.com/dchandana/AssurityConsultingTechnicalAssignment/tree/master)
@@ -45,7 +45,7 @@ Step 3:- Navigate to following folder and open 'karate-summary.html' report. The
 	- ../AssurityConsultingTechnicalAssignment/target/karate-reports
 	
 	
-
+------------------------------------------------------------------------------------------------------------------------------
 **Steps to run test in Eclipse:-**
 
 Step 01:- You need to have Eclipse Oxygen 4.23 or a version support JUnit5. You can directly import directly to Eclipse.
